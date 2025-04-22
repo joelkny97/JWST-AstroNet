@@ -1,0 +1,32 @@
+🔸 TRAIN SET
+   num_samples         : 2508
+   mean_noisy_mean     : 0.15851737558841705
+   mean_noisy_std      : 0.09483622014522552
+   std_noisy_mean      : 0.11847914010286331
+   std_noisy_std       : 0.028935540467500687
+   zero_noisy_avg%     :    0.727
+   mean_clean_mean     : 0.1584794968366623
+   std_clean_mean      : 0.11690482497215271
+   zero_clean_avg%     :    1.443
+
+🔸 VAL SET
+   num_samples         : 314
+   mean_noisy_mean     : 0.1532316505908966
+   mean_noisy_std      : 0.08090933412313461
+   std_noisy_mean      : 0.1186334639787674
+   std_noisy_std       : 0.029350262135267258
+   zero_noisy_avg%     :    0.820
+   mean_clean_mean     : 0.15319213271141052
+   std_clean_mean      : 0.11711397767066956
+   zero_clean_avg%     :    1.632
+
+🔸 TEST SET
+   num_samples         : 314
+   mean_noisy_mean     : 0.15457870066165924
+   mean_noisy_std      : 0.09027930349111557
+   std_noisy_mean      : 0.12183503806591034
+   std_noisy_std       : 0.03563870117068291
+   zero_noisy_avg%     :    0.731
+   mean_clean_mean     : 0.15454164147377014
+   std_clean_mean      : 0.12037147581577301
+   zero_clean_avg%     :    1.456
